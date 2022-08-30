@@ -1,2 +1,3 @@
 second read me
-Updating Readme on the githuh GUI
+Updating Readme on the githuh GUI is awesome
+
